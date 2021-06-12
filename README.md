@@ -6,7 +6,6 @@ Yaroslav Miloslavsky
 <br>
 <img align="" alt="Yaroslav Miloslavsky | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" /> YaroslavMiloslavsky@gmail.com
 
-<hr>
 <br />
 
 ## About me:
