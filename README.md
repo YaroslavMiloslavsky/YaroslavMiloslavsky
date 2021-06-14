@@ -15,6 +15,8 @@ Yaroslav Miloslavsky
 [![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Assembly-Parser)]( https://github.com/YaroslavMiloslavsky/Assembly-Parser)
 
  
+ ## Playing right now:
+    Here comes spotify cool stuff
 
 <hr />
 <br />
