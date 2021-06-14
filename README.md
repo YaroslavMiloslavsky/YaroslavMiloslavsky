@@ -6,17 +6,14 @@ Yaroslav Miloslavsky
 <br>
 <img align="" alt="Yaroslav Miloslavsky | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" /> YaroslavMiloslavsky@gmail.com
 
-<br />
-
-## About me:
-    Hi, I'm a junior software developer.
-    My main focus is web development and data science
+## Projecs (more to come):
 
 [![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=ToDoList-App)]( https://github.com/YaroslavMiloslavsky/ToDoList-App)
 
 [![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Mapper)]( https://github.com/YaroslavMiloslavsky/Mapper)
 
 [![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Assembly-Parser)]( https://github.com/YaroslavMiloslavsky/Assembly-Parser)
+
  
 
 <hr />
