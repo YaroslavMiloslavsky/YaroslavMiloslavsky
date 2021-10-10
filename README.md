@@ -10,7 +10,7 @@ Yaroslav Miloslavsky
 
 [![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=ToDoList-App)]( https://github.com/YaroslavMiloslavsky/ToDoList-App)
 
-[![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Mapper)]( https://github.com/YaroslavMiloslavsky/Mapper)
+[![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Billboard_Graph)]( https://github.com/YaroslavMiloslavsky/Billboard_Graph)
 
 [![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Assembly-Parser)]( https://github.com/YaroslavMiloslavsky/Assembly-Parser)
 
