@@ -1,4 +1,3 @@
-## Hello There, Welcome To My GitHub
 <i> Contact Me </i>
 <br>
 [<img align="" alt="Yaroslav Miloslavsky | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin] 
