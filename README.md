@@ -9,8 +9,6 @@ Yaroslav Miloslavsky
 
 [![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=ToDoList-App)]( https://github.com/YaroslavMiloslavsky/ToDoList-App)
 
-[![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Bio_Lab)](https://github.com/YaroslavMiloslavsky/Bio_Lab)
-
 [![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Assembly-Parser)]( https://github.com/YaroslavMiloslavsky/Assembly-Parser)
 
  
