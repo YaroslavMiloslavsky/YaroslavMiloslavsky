@@ -5,13 +5,7 @@ Yaroslav Miloslavsky
 <br>
 <img align="" alt="Yaroslav Miloslavsky | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" /> YaroslavMiloslavsky@gmail.com
 
-## Projecs (more to come):
 
-[![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=ToDoList-App)]( https://github.com/YaroslavMiloslavsky/ToDoList-App)
-
-[![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Assembly-Parser)]( https://github.com/YaroslavMiloslavsky/Assembly-Parser)
-
-[![Yaroslav's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavMiloslavsky&repo=Bio_Lab)](https://github.com/YaroslavMiloslavsky/Bio_Lab)
 
 
 <hr />
