@@ -1,61 +1,98 @@
-<i> Contact Me </i>
-<br>
-[<img align="" alt="Yaroslav Miloslavsky | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin] 
-Yaroslav Miloslavsky
+<div align="center">
 
+<a href="https://github.com/YaroslavMiloslavsky">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Engineer;JVM+Performance+Enthusiast;Building+Scalable+Systems;Turning+Coffee+Into+Microservices" alt="Typing SVG" />
+</a>
 
+**Software Engineer at Vicarius | Tel Aviv, Israel**
 
+</div>
 
+---
 
-<hr />
+### About Me
+
+- Building backend systems in **Java/Spring** with a focus on JVM performance
+- Passionate about understanding systems under the hood — optimizing for speed and reliability
+- **B.Sc. Computer Science**, Open University of Israel
+- 6+ years across health tech, medical IoT, fraud detection, and cybersecurity
+
+---
+
+### Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,bash" />
+</p>
+
+**Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Project_Reactor-59B86C?style=for-the-badge&logo=spring&logoColor=white" alt="Project Reactor" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch" />
+</p>
+
+**Messaging & Streaming**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Redpanda-E13A30?style=for-the-badge&logoColor=white" alt="Redpanda" />
+  <img src="https://img.shields.io/badge/Debezium-E85913?style=for-the-badge&logoColor=white" alt="Debezium" />
+  <img src="https://img.shields.io/badge/CDC-4A90D9?style=for-the-badge&logoColor=white" alt="CDC" />
+</p>
+
+**DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+</p>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavMiloslavsky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavMiloslavsky&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
 <br />
 
-### Languages:
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YaroslavMiloslavsky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+---
 
-<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+### Currently
 
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+- Working on **vRx** at Vicarius — reactive pipelines, Kafka, CDC
+- Exploring JVM internals and distributed systems patterns
+- Open to conversations about system design and performance engineering
 
+---
 
-<br />
-<br />
+<div align="center">
 
+<a href="https://www.linkedin.com/in/yaroslavmiloslavsky/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-### Frameworks:
-<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-
-<br />
-<br />
-
-### Databases:
-
-<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-
-<br />
-<br />
-
-### Technologies:
-
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-
-<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/master/logo-mark.svg" />
-
-<img align="left" alt="RestAPI" width="26px" src="custom-icons/rest-api.svg" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" />
-
-<br />
-<br />
-
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/yaroslav-miloslavsky/
+</div>
