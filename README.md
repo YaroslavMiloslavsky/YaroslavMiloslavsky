@@ -65,22 +65,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavMiloslavsky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavMiloslavsky&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YaroslavMiloslavsky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### Currently
 
 - Working on **vRx** at Vicarius — reactive pipelines, Kafka, CDC
